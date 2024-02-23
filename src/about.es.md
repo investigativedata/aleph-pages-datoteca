@@ -1,0 +1,9 @@
+---
+title: Acerca de Cuba Investiga
+short: Acerca de
+menu: true
+---
+
+Cuba Investiga es una herramienta de [Proyecto Inventario](https://proyectoinventario.org/) para hacer periodismo de investigación sobre Cuba. Desarrollada a partir del [Aleph](https://aleph.occrp.org/pages/about) de [OCCRP](https://www.occrp.org/en/about-us), la plataforma facilita acceso a documentos y bases de datos útiles para profundizar en los perfiles de entidades y personas de interés, seguir la pista del dinero y exponer casos de corrupción, negocios secretos, empresas fachada y testaferros, crimen organizado y otras historias de interés público que contribuyan a la fiscalización del Poder desde el periodismo.
+
+Como en el [relato](https://es.wikipedia.org/wiki/El_Aleph_(cuento)) de Jorge Luis Borges que inspiró el nombre de la herramienta original de OCCRP, este "Aleph cubano" pretende ser "el lugar donde están, sin confundirse, todos los lugares del orbe, vistos desde todos los ángulos" —un buscador que concentra en un solo sitio miles de documentos relacionados con Cuba, a los que se puede acceder sin tener que visitar decenas de fuentes distintas en rincones dispersos y efímeros del internet, donde muchas veces la información disponible no es la óptima, sino apenas la indexada.
